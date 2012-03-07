@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="MS950" standalone="no"?>
+<eclipse-userlibraries version="2">
+    <library name="wiki" systemlibrary="false">
+        <archive path="/travel_walker/wikitudesdk.jar"/>
+    </library>
+</eclipse-userlibraries>

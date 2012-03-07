@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Travel_walkerActivity!</string>
+    <string name="app_name">Travel_walker</string>
+    <string name="strButton01">語音辨識搜尋</string>
+    
+
+</resources>
