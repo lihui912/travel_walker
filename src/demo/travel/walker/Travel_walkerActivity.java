@@ -27,6 +27,8 @@ import android.widget.Toast;
 import com.google.android.maps.GeoPoint;
 
 public class Travel_walkerActivity extends Activity {
+	
+	//testtest
 	/** Called when the activity is first created. */
 	private Button btnLeft01; // 左上按鈕
 	private Button btnRight02; // 右上按鈕
